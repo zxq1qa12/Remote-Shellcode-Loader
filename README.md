@@ -1,0 +1,2 @@
+远程shellcode加载器，在2024年6月可以免杀360杀毒软件，上传到virustotal后0报毒，仅供学习参考。Remote Shellcode Loader.cpp需要编译，server.py文件里的get_file_hex_content函数
+里填写shellcode文件路径。先运行server.py启动服务器，在运行shellcode加载器。
